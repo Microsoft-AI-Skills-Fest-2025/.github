@@ -3,10 +3,8 @@
 ## Quick Links (With QR-Code)
 
 - **Event Page:** [https://aiskillsfest.event.microsoft.com](https://aiskillsfest.event.microsoft.com)
+
 ![bing_generated_qrcode](https://github.com/user-attachments/assets/375af801-7274-4e29-a54a-398648743417) 
-
-
-- **Calendar Reminder (.ics):**
 
 
 ---
