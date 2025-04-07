@@ -48,3 +48,54 @@ Use **Microsoft Edge** for full compatibility — avoid Brave or other browsers 
 
 ## Be Ready to Make History!
 See you all on the record-breaking side!
+
+
+
+
+
+
+
+# Microsoft AI Skills Fest - Participation Checklist
+
+**Event Date:** April 8, 2025  
+**Time:** 9:00 AM AEST to 4:00 PM PDT  
+**Location:** Online  
+**Goal:** Help set a GUINNESS WORLD RECORD for most users taking a multi-level AI lesson in 24 hours
+
+---
+
+## ✅ Pre-Event Checklist
+
+- [x] Registered for the event  
+- [x] Saved confirmation email / Registration ID  
+- [x] Favorited the event link in browser  
+- [x] Switched to Microsoft Edge (avoid ad/tracker issues)  
+- [x] Synced time zone (start at correct time)  
+- [x] Set up a distraction-free environment  
+- [x] Have a notebook or document ready for notes  
+
+---
+
+## ✅ During the Event
+
+- [ ] Log in using registered email  
+- [ ] Join the **kickoff session**  
+- [ ] Complete all assigned lessons/modules  
+- [ ] Track progress on official platform  
+- [ ] Stay active for the full duration (as needed for record attempt)  
+- [ ] Screenshot or save completion confirmation  
+
+---
+
+## QR Code - Event Access
+
+Scan this to go straight to the event homepage:
+
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://aiskills.microsoft.com)
+
+---
+
+**Tip:** Don’t close your tab during lessons. Stay active.  
+**Note:** You must finish all required content to count toward the record!
+
+Good luck — let’s make history.
