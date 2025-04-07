@@ -2,7 +2,7 @@
 
 ## Quick Links
 
-- **Event Page:** ![https://aiskillsfest.event.microsoft.com](https://aiskillsfest.event.microsoft.com)
+- **Event Page:** [https://aiskillsfest.event.microsoft.com](https://aiskillsfest.event.microsoft.com)
 - **Calendar Reminder (.ics):**
 
 ---
