@@ -2,7 +2,7 @@
 
 ## Quick Links (with QR codes)
 - **Event Page:** [https://aiskillsfest.event.microsoft.com](https://aiskillsfest.event.microsoft.com)
-- **Calendar Reminder (.ics):** Download from ChatGPT sandbox
+- **Calendar Reminder (.ics):**
 
 ---
 
@@ -12,7 +12,7 @@
 - [ ] Log into the event site: https://aiskillsfest.event.microsoft.com
 - [ ] Bookmark the event page in your browser
 - [ ] Test your internet connection
-- [ ] Find a quiet, uninterrupted space (Zion hq)
+- [ ] Find a quiet, uninterrupted space (Zion central)
 
 ---
 
