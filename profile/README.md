@@ -14,7 +14,7 @@
 - [x] Add event to your calendar
 - [x] Log into the event site: https://aiskillsfest.event.microsoft.com
 - [x] Bookmark the event page in your browser
-- [ ] Test your internet connection & audio
+- [x] Test your internet connection & audio
 - [x] Find a quiet, uninterrupted space (Zion central)
 
 ---
