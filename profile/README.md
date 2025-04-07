@@ -18,8 +18,8 @@
 
 ## ⏰ 15–30 Minutes Before the Event
 - [ ] Open the event page and log in
-- [ ] Ensure device is plugged in or fully charged
-- [ ] Have a notebook or document ready for notes
+- [x] Ensure device is plugged in or fully charged
+- [x] Have a notebook or document ready for notes
 - [ ] Get a drink/snack (optional but recommended)
 
 ---
