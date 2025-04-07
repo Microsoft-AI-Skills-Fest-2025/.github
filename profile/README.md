@@ -1,8 +1,11 @@
 # Microsoft AI Skills Fest - World Record Checklist
 
-## Quick Links
+## Quick Links (With QR-Code)
 
 - **Event Page:** [https://aiskillsfest.event.microsoft.com](https://aiskillsfest.event.microsoft.com)
+
+
+
 - **Calendar Reminder (.ics):**
 
 ---
