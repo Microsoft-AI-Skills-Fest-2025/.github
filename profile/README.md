@@ -8,9 +8,9 @@
 
 ## ✅ Before the Event
 - [x] Confirm you're registered (Done)
-- [ ] Add event to your calendar
-- [ ] Log into the event site: https://aiskillsfest.event.microsoft.com
-- [ ] Bookmark the event page in your browser
+- [x] Add event to your calendar
+- [x] Log into the event site: https://aiskillsfest.event.microsoft.com
+- [x] Bookmark the event page in your browser
 - [ ] Test your internet connection
 - [ ] Find a quiet, uninterrupted space (Zion central)
 
