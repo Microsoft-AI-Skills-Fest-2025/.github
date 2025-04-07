@@ -11,8 +11,8 @@
 - [x] Add event to your calendar
 - [x] Log into the event site: https://aiskillsfest.event.microsoft.com
 - [x] Bookmark the event page in your browser
-- [ ] Test your internet connection
-- [ ] Find a quiet, uninterrupted space (Zion central)
+- [ ] Test your internet connection & audio
+- [x] Find a quiet, uninterrupted space (Zion central)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 🚨 At Event Start (11:59 PM SAST)
 - [ ] Be actively present and engaged
-- [ ] Watch the full session without leaving early
+- [ ] Watch the entire session without leaving early
 - [ ] Participate if prompted (polls, questions, clicks)
 
 ---
