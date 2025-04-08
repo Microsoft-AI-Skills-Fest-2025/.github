@@ -91,6 +91,7 @@ See you all on the record-breaking side!
 
 Scan this to go straight to the event homepage:
 
+
 ![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://aiskills.microsoft.com)
 
 ---
@@ -99,3 +100,25 @@ Scan this to go straight to the event homepage:
 **Note:** You must finish all required content to count toward the record!
 
 Good luck — let’s make history.
+
+
+
+
+
+How can I participate in the GUINNESS WORLD RECORDS™ attempt?
+
+To participate in the GUINNESS WORLD RECORDS™ attempt for most users to take an online multilevel artificial intelligence lesson in 24 hours, you need to take a designated AI lesson within a 24-hour period April 7 at 23:00 UTC (April 8 at 9:00 AM AEST) and concluding April 8 at 23:00 UTC (4:00 PM PDT).
+Which session content applies to the GUINNESS WORLD RECORDS™ title attempt for most users to take an online multi-level artificial intelligence lesson in 24 hours?
+
+There are two ways to find content that applies to the GUINNESS WORLD RECORDS™ title attempt for most users to take an online multi-level artificial intelligence lesson in 24 hours.
+NOTE: You must complete one of the AI lessons during the 24-hour period beginning April 7 at 23:00 UTC (9:00 AM AEST), concluding April 8 at 23:00 UTC (4:00 PM PDT), to qualify for the record attempt.
+Click on the Explore sessions link under “Be a record breaker” on the Microsoft AI Skills Fest home page which will bring you to a pre-filtered list of AI lessons, or you can use the catalog filters to look for GUINNESS WORLD RECORDS™ content.
+How do I receive my GUINNESS WORLD RECORDS™ participation badge?
+
+After completing an artificial intelligence lesson during our Kickoff Celebration, the 24-hour period beginning April 7 at 23:00 UTC (April 8 at 9:00 AM AEST) and concluding April 8 at 23:00 UTC (4:00 PM PDT), you will be provided with a QR code and URL leading to a webpage that will provide detailed instructions on how to receive your GUINNESS WORLD RECORDS™ participation badge.
+Is there a time limit to receive my GUINNESS WORLD RECORDS™ participation badge?
+
+Yes, you must register, complete the appropriate training, and attest completion of the requirements using the QR Code or URL by April 8, 2025 at 23:00 UTC (4:00 PM PDT) in order to receive your GUINNESS WORLD RECORDS™ attempt badge.
+Will there be a badge available when the record for most users to take an online multi-level artificial intelligence lesson in 24 hours is awarded by GUINNESS WORLD RECORDS™?
+
+Yes! Individuals who verified their participation in the GUINNESS WORLD RECORDS™ title attempt by April 8, 2025 at 23:00 UTC (4:00 PM PDT) will receive an email with instructions to download their Official GUINNESS WORLD RECORDS™ title badge.
