@@ -107,6 +107,7 @@ Scan to visit the event homepage!
 
 ---
 
-You're all set to be part of AI history, Nathan—this guide has you covered from start to finish. 
+All set to be part of AI history, Nathan—this guide has you covered from start to finish:
 
+![IMG_4734](https://github.com/user-attachments/assets/77effab6-3072-452d-ad31-d4ee77fe3fc2)
 
