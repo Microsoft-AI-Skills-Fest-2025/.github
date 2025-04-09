@@ -41,11 +41,11 @@ Be part of history! This guide ensures your seamless participation in the **Guin
 ⏰ **15–30 Minutes Before Start**:  
 1. **Log In**: Go to the event platform and log in with your registered email.  
 2. **Prepare Your Tools**:
-   - Open the event page and lesson catalog.
-   - Grab a notebook or digital document for notes.
+ ✅  - Open the event page and lesson catalog.
+ ✅  - Grab a notebook or digital document for notes.
 3. **Minimize Distractions**:
-   - Choose a quiet space (e.g., Zion Central 😉).
-   - Turn off notifications on your devices.
+ ✅ - Choose a quiet space (e.g., Zion Central 😉).
+ ✅  - Turn off notifications on your devices.
 4. **Refreshments Ready**: Have water or a snack nearby for comfort.  
 
 ---
@@ -53,45 +53,45 @@ Be part of history! This guide ensures your seamless participation in the **Guin
 ### **3. During the Event**
 🚀 **Follow These Steps for Success**:  
 1. **Join the Livestream**:
-   - Visit the event homepage and access the "Be a Record Breaker" section.
-   - Locate lessons tagged for the Guinness World Records™ attempt.
+ ✅ - Visit the event homepage and access the "Be a Record Breaker" section.
+ ✅ - Locate lessons tagged for the Guinness World Records™ attempt.
 2. **Complete a Multi-Level AI Lesson**:
-   - Ensure the lesson explicitly references "AI Skills Fest" or "Guinness World Records™".
-   - Participate actively—complete all quizzes, exercises, or interactions.
-   - Lessons must be completed within the **24-hour event window**.
-3. **Save Completion Details**:
-   - At the end of the lesson, take note of the **QR Code** or **URL** provided for verification.  
+ ✅ - Ensure the lesson explicitly references "AI Skills Fest" or "Guinness World Records™".
+ ✅ - Participate actively—complete all quizzes, exercises, or interactions.
+ ✅ - Lessons must be completed within the **24-hour event window**.
+4. **Save Completion Details**:
+ ✅ - At the end of the lesson, take note of the **QR Code** or **URL** provided for verification.  
 
 ---
 
 ### **4. After Completing the Lesson**
 💡 **Verify Your Participation**:  
-- Use the **QR Code** or **URL** immediately to attest to your completion.  
-- Verification deadline: **April 8, 2025, at 23:00 UTC**.  
+✅ - Use the **QR Code** or **URL** immediately to attest to your completion.  
+✅ - Verification deadline: **April 8, 2025, at 23:00 UTC**.  
 
 🏆 **Claim Your Badge**:  
-- Verified participants will receive an email with instructions to download the Official Guinness World Records™ badge.  
-- Celebrate being a record holder and share your accomplishment!  
+✅ - Verified participants will receive an email with instructions to download the Official Guinness World Records™ badge.  
+✅ - Celebrate being a record holder and share your accomplishment!  
 
 ---
 
 ## **Pro Tips for a Foolproof Experience**
-- **Plan Your Time**: Identify a convenient slot within the 24-hour window and dedicate focus to completing the lesson.  
-- **Stay Logged In**: Ensure your Microsoft Learn account remains active for proper progress tracking.  
-- **Keep Tabs Open**: Don’t close the event or lesson tabs until you confirm completion.  
-- **Verify on Time**: Submit completion verification ASAP—don’t wait until the last minute.  
+✅ - **Plan Your Time**: Identify a convenient slot within the 24-hour window and dedicate focus to completing the lesson.  
+✅ - **Stay Logged In**: Ensure your Microsoft Learn account remains active for proper progress tracking.  
+✅ - **Keep Tabs Open**: Don’t close the event or lesson tabs until you confirm completion.  
+✅ - **Verify on Time**: Submit completion verification ASAP—don’t wait until the last minute.  
 
 ---
 
 ## **Troubleshooting and Support**
 1. **Lesson Not Marked Complete**:
-   - Revisit the session to confirm all steps are finished.
-   - Check you’re logged into the correct account.
-2. **No QR Code/URL**:  
-   - Ensure the lesson is fully completed.
-   - Contact event support via the platform for assistance.
-3. **Technical Issues**:  
-   - Use the live chat or help desk on the AI Skills Fest website for immediate support.
+✅ - Revisit the session to confirm all steps are finished.
+✅ - Check you’re logged into the correct account.
+2. **No QR Code/URL**:
+✅ - Ensure the lesson is fully completed.
+✅ - Contact event support via the platform for assistance.
+4. **Technical Issues**:  
+✅  - Use the live chat or help desk on the AI Skills Fest website for immediate support.
 
 ---
 
