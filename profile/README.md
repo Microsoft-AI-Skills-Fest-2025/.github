@@ -108,3 +108,5 @@ Scan to visit the event homepage!
 ---
 
 You're all set to be part of AI history, Nathan—this guide has you covered from start to finish. 
+
+
